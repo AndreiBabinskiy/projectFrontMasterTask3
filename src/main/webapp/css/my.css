@@ -1,0 +1,74 @@
+th, td {
+    border: 1px solid black;
+    padding: 3px;
+}
+
+h1, h2{
+    color: red;
+}
+
+.button {
+    position: relative;
+    left: 19%;
+    transform: translateX(20%);
+}
+.label-container {
+    width: 250px;
+    height: 14px;
+    padding: 3px;
+    border-radius: 5px;
+    position: relative;
+    left: 5%;
+    transform: translateX(5%);
+}
+.label {
+    display: flex ;
+}
+.label-container-select {
+    width: 260px;
+    height: 22px;
+    padding: 3px;
+    border-radius: 5px;
+    position: relative;
+    left: 5%;
+    transform: translateX(5%);
+}
+.label-container-birthday {
+    width: 250px;
+    height: 17px;
+    padding: 3px;
+    border-radius: 5px;
+    position: relative;
+    left: 5%;
+    transform: translateX(5%);
+}
+.label-container-banned {
+    width: 260px;
+    height: 25px;
+    padding: 3px;
+    border-radius: 5px;
+    position: relative;
+    left: 5%;
+    transform: translateX(5%);
+}
+
+table{
+    color: darkblue;
+    background: yellowgreen;
+}
+
+.color-page{
+    color: blueviolet;
+    margin: 5px;
+}
+
+.pagging-count {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+    color: #FF0000;
+}
+
